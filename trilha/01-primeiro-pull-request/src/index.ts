@@ -1,2 +1,2 @@
-const estudosJean = "Controle de Produtos";
-console.log(estudosJean);
+const nomeDoSistema = "Controle de Produtos";
+console.log(nomeDoSistema);
